@@ -23,16 +23,18 @@
 # noise and makes the prefilter counts impossible to reason about.
 
 companies:
-  - {ats: greenhouse, slug: stripe,      name: Stripe}
-  - {ats: greenhouse, slug: databricks,  name: Databricks}
-  - {ats: greenhouse, slug: cloudflare,  name: Cloudflare}
-  - {ats: greenhouse, slug: figma,       name: Figma}
-  - {ats: greenhouse, slug: dropbox,     name: Dropbox}
-  - {ats: greenhouse, slug: coinbase,    name: Coinbase}
-  - {ats: greenhouse, slug: reddit,      name: Reddit}
-  - {ats: lever,      slug: voleon,      name: Voleon}
-
-  - {ats: ashby,      slug: openai,      name: OpenAI}
-  - {ats: ashby,      slug: ramp,        name: Ramp}
-  - {ats: ashby,      slug: linear,      name: Linear}
-  - {ats: ashby,      slug: vanta,       name: Vanta}
+- {ats: ashby, slug: plane, name: Plane Software}
+- {ats: ashby, slug: opengov, name: OpenGov}
+- {ats: ashby, slug: sarvam, name: Sarvam}
+- {ats: lever, slug: drivetrain, name: Drivetrain}
+- {ats: lever, slug: dnb, name: Dun & Bradstreet}
+- {ats: ashby, slug: real, name: Real}
+- {ats: ashby, slug: junipersquare, name: Juniper Square}
+- {ats: ashby, slug: astronomer, name: Astronomer}
+- {ats: ashby, slug: comulate, name: Comulate}
+- {ats: ashby, slug: anrok, name: Anrok}
+- {ats: ashby, slug: traba, name: Traba}
+- {ats: ashby, slug: polymarket, name: Polymarket}
+- {ats: ashby, slug: handshake, name: Handshake}
+- {ats: ashby, slug: multiverse, name: Multiverse}
+- {ats: lever, slug: shyftlabs, name: ShyftLabs}
